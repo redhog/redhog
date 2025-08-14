@@ -5,7 +5,7 @@ Empathy, compassion, pleasure
 Feel, think, create  
 Live, be, do  
 
-__Noteworthy projects__
+__Noteworthy projects__  
 Projects I've been part of or lead (repos in one of my organizations or organizations I used to be part of):
 
 [Beryllium](https://emerald-geomodelling.github.io/beryllium/) - Time domain EM processing and inversion  
