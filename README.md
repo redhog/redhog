@@ -17,4 +17,4 @@ Projects I've lead, been part of or contributed to (repos in one of my organizat
 [pelagos-client](https://github.com/GlobalFishingWatch/pelagos-client) - Zoomable map with large time series datasets (main dev)  
 [vessel-classification](https://github.com/GlobalFishingWatch/vessel-classification/) - NN based fishing behavior classifier (contribution)  
 [scikit-gstat](https://github.com/mmaelicke/scikit-gstat) - Variograms and Kriging (contribution)  
-[docetl](https://github.com/ucbepic/docetl]) - an LLM docucument processing pipeline (contribution)  
+[docetl](https://github.com/ucbepic/docetl) - an LLM docucument processing pipeline (contribution)  
